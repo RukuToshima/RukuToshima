@@ -4,10 +4,7 @@
 ## Stats
 ![](https://raw.githubusercontent.com/RukuToshima//output/github-contribution-grid-snake.svg)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RukuToshima&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RukuToshima&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RukuToshima&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RukuToshima&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RukuToshima&theme=gruvbox&utcOffset=9)
+
 
 
 
