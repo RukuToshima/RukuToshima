@@ -1,7 +1,18 @@
-## Hi there 👋
+### Hi there 👋
+
+
+## Stats
+![](https://raw.githubusercontent.com/toshima1051/toshima1051/output/github-contribution-grid-snake.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshima1051&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshima1051&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshima1051&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshima1051&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshima1051&theme=gruvbox&utcOffset=9)
+
+
 
 <!--
-**RukuToshima/RukuToshima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**toshima1051/toshima1051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
